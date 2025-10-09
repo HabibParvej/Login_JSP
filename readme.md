@@ -228,43 +228,6 @@ private static final String APP_PASSWORD = "xxxx xxxx xxxx xxxx"; // App Passwor
 **Important:** Use the **App Password**, NOT your regular Gmail password!
 
 ---
-
-## Project Structure
-
-
-JSP-Login-System/
-│
-├── src/
-│ └── forgotpassword/
-│ ├── DBConnection.java # Database connection utility
-│ ├── EmailUtil.java # Email sending utility
-│ ├── User.java # User model class
-│ ├── UserDAO.java # User database operations
-│ ├── OTPDao.java # OTP database operations
-│ ├── RegisterServlet.java # Registration handler
-│ ├── LoginServlet.java # Login handler
-│ ├── VerifyOTPServlet.java # OTP verification handler
-│ ├── ForgotPasswordServlet.java # Forgot password handler
-│ ├── ResetPasswordServlet.java # Password reset handler
-│ ├── ResendOTPServlet.java # Resend OTP handler
-│ └── LogoutServlet.java # Logout handler├── WebContent/
-│ ├── WEB-INF/
-│ │ ├── web.xml # Deployment descriptor
-│ │ └── lib/ # JAR files directory
-│ │ ├── mysql-connector-java-8.0.x.jar
-│ │ ├── javax.mail-1.6.2.jar
-│ │ └── activation-1.1.1.jar
-│ │
-│ ├── login.jsp # Login page
-│ ├── register.jsp # Registration page
-│ ├── verifyOTP.jsp # OTP verification page
-│ ├── forgotPassword.jsp # Forgot password page
-│ ├── resetPassword.jsp # Reset password page
-│ └── welcome.jsp # Dashboard after login
-│
-└── README.md # Project documentation
----
-
 ## How to Run
 
 ### Method 1: Using Eclipse
