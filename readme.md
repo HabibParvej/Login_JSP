@@ -437,6 +437,65 @@ Secure interface for users to set a new password after OTP verification.
 **Solution:**
 - Increase session timeout in `web.xml`:
 
+---
+
+## 🙏 Thank You!
+
+Thank you for exploring this **JSP Login System with Email OTP Verification** project! 
+
+### To Everyone Who Uses This Project
+
+Whether you're a student learning web development, a developer looking for authentication solutions, or someone exploring JSP and Servlets, **thank you** for choosing this project as part of your journey. Your interest and dedication to learning inspire continuous improvement.
+
+### Special Thanks To:
+
+- **Students and Learners** - Your curiosity drives innovation. Thank you for using this project to enhance your skills in Java web development.
+
+- **Contributors** - Every bug report, feature suggestion, and code contribution makes this project better. Your collaboration is deeply appreciated.
+
+- **Educators** - Thank you for using this as a teaching resource. Your guidance helps shape the next generation of developers.
+
+- **Open Source Community** - For providing invaluable resources, documentation, and support that made this project possible.
+
+### Your Feedback Matters! 📢
+
+This project was built with the goal of providing a **practical, real-world example** of authentication systems. Your feedback helps improve it for everyone:
+
+- ⭐ **Star this repository** if you found it helpful
+- 🐛 **Report issues** to help identify bugs
+- 💡 **Suggest features** to make it even better
+- 🤝 **Contribute code** to enhance functionality
+- 📖 **Share your experience** to help others learn
+
+### A Personal Note
+
+Building secure authentication systems is a fundamental skill in web development. If this project helped you understand **OTP verification, session management, database integration, or email functionality**, then it has served its purpose.
+
+Remember: **Every expert was once a beginner.** Keep learning, keep building, and keep sharing your knowledge with others.
+
+### Stay Connected
+
+- Found a bug? [Open an issue](https://github.com/HabibParvej/Login_JSP)
+- Have questions? Check the [Troubleshooting](#troubleshooting) section
+- Want to contribute? Read the [Contributing](#contributing) guidelines
+- Need help? Feel free to reach out
+
+### Final Words
+
+> "The beautiful thing about learning is that no one can take it away from you." - B.B. King
+
+Thank you for being part of this learning community. Your journey in software development is valuable, and I'm grateful to be a small part of it.
+
+**Happy Coding! 🚀**
+
+---
+
+**Made with ☕ and 💻 by [Habib Parvej]**
+
+*If this project helped you, consider giving it a star ⭐ or sharing it with others!*
+
+---
+
 
 
 
