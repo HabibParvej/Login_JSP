@@ -127,12 +127,14 @@ git clone https://github.com/HabibParvej/Login_JSP
 
 Or download as ZIP and extract.
 
+
 ### Step 2: Import Project into Eclipse
 
 1. Open **Eclipse IDE**
 2. Go to **File → Import → Existing Projects into Workspace**
 3. Select the project folder
 4. Click **Finish**
+
 
 ### Step 3: Add Required JAR Files
 
@@ -156,6 +158,7 @@ After adding JARs:
 - Verify JARs are listed
 
 ---
+
 
 ## Database Setup
 
